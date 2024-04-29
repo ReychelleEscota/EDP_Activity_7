@@ -207,7 +207,7 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.LightCoral;
+            this.panel1.BackColor = System.Drawing.Color.IndianRed;
             this.panel1.Controls.Add(this.title);
             this.panel1.Controls.Add(this.sigup);
             this.panel1.Location = new System.Drawing.Point(519, 114);
